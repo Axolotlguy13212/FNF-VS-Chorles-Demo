@@ -5,11 +5,16 @@
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"hideStoryMode": false,
 	"songs": [
 		[
 			"Beetorial",
-			"face",
+			"chorles",
 			[
 				146,
 				113,
@@ -17,11 +22,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Flutter Fields"
+	"weekName": "Flutter Fields",
+	"hiddenUntilUnlocked": false
 }

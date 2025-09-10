@@ -1,0 +1,41 @@
+{
+	"events": [
+		[
+			4200,
+			[
+				["Target Camera", "dad", "0, 0, 2, CLASSIC"]
+			]
+		],
+		[
+			8100,
+			[
+				["Target Camera", "bf", "0, 0, 2, CLASSIC"]
+			]
+		],
+		[
+			12000,
+			[
+				["Target Camera", "dad", "0, 0, 2, CLASSIC"]
+			]
+		],
+		[
+			16100,
+			[
+				["Target Camera", "bf", "0, 0, 2, CLASSIC"]
+			]
+		],
+		[
+			23200,
+			[
+				["Target Camera", "dad", "0, 0, 2, CLASSIC"]
+			]
+		],
+		[
+			29700,
+			[
+				["Target Camera", "gf", "0, 0, 2, CLASSIC"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
