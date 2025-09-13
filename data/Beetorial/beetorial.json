@@ -432,6 +432,6 @@
 	"stage": "flutterfields",
 	"needsVoices": true,
 	"format": "psych_v1",
-	"speed": 2,
+	"speed": 2.5,
 	"bpm": 150
 }
