@@ -5,19 +5,19 @@
 	],
 	"_editorMeta": {
 		"boyfriend": "bf",
-		"gf": "gf",
-		"dad": "dad"
+		"dad": "chorles",
+		"gf": "gf"
 	},
+	"boyfriend": [
+		1040,
+		139
+	],
 	"girlfriend": [
 		304,
 		156
 	],
 	"stageUI": "normal",
-	"boyfriend": [
-		1040,
-		139
-	],
-	"defaultZoom": 0.65,
+	"defaultZoom": 0.5,
 	"objects": [
 		{
 			"x": -2404,
@@ -157,15 +157,15 @@
 		0,
 		0
 	],
+	"camera_speed": 1,
+	"directory": "",
 	"opponent": [
 		-131,
 		115
 	],
-	"directory": "",
-	"camera_speed": 1,
-	"hide_girlfriend": false,
 	"camera_opponent": [
 		0,
 		0
-	]
+	],
+	"hide_girlfriend": false
 }
