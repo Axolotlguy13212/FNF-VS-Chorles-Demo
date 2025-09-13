@@ -1,16 +1,10 @@
 {
 	"storyName": "Flutter Fields",
-	"difficulties": "Easy, Hard",
+	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hideStoryMode": false,
 	"songs": [
 		[
 			"Beetorial",
@@ -22,6 +16,12 @@
 			]
 		]
 	],
-	"weekName": "Flutter Fields",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Flutter Fields"
 }
