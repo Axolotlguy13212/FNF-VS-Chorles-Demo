@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="charles.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="1695" y="0" width="518" height="956" frameX="-276" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="idle0001" x="1695" y="956" width="518" height="956" frameX="-276" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="idle0002" x="2213" y="0" width="518" height="951" frameX="-276" frameY="-11" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="idle0003" x="1695" y="956" width="518" height="956" frameX="-276" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="idle0004" x="1695" y="0" width="518" height="956" frameX="-276" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="idle0005" x="1695" y="0" width="518" height="956" frameX="-276" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="idle0006" x="1695" y="0" width="518" height="956" frameX="-276" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="idle0007" x="1695" y="0" width="518" height="956" frameX="-276" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singLEFT0000" x="478" y="1916" width="454" height="984" frameX="-140" frameY="1" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singLEFT0001" x="0" y="1916" width="478" height="984" frameX="-116" frameY="1" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singLEFT-loop0000" x="0" y="1916" width="478" height="984" frameX="-116" frameY="1" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singRIGHT0000" x="0" y="956" width="533" height="960" frameX="-344" frameY="-2" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singRIGHT0001" x="533" y="956" width="533" height="958" frameX="-344" frameY="-4" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singRIGHT-loop0000" x="533" y="956" width="533" height="958" frameX="-344" frameY="-4" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singUP0000" x="2731" y="908" width="496" height="954" frameX="-276" frameY="-8" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singUP0001" x="2213" y="951" width="496" height="954" frameX="-276" frameY="-8" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singUP-loop0000" x="2213" y="951" width="496" height="954" frameX="-276" frameY="-8" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singDOWN0000" x="1066" y="956" width="540" height="926" frameX="-276" frameY="-36" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singDOWN0001" x="2731" y="0" width="540" height="908" frameX="-276" frameY="-54" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="singDOWN-loop0000" x="2731" y="0" width="540" height="908" frameX="-276" frameY="-54" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="hey0000" x="1143" y="0" width="552" height="956" frameX="-242" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="hey0001" x="575" y="0" width="568" height="956" frameX="-226" frameY="-6" frameWidth="900" frameHeight="1000"/>
+	<SubTexture name="hey0002" x="0" y="0" width="575" height="956" frameX="-219" frameY="-6" frameWidth="900" frameHeight="1000"/>
+</TextureAtlas>
