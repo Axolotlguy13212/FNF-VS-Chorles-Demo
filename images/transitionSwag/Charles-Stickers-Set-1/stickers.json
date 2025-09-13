@@ -1,0 +1,13 @@
+{
+  "name": "stickers-set-1",
+  "artist": "PhantomArcade3K",
+  "stickers": {
+    "chorles": ["chorlesSticker1"],
+    "viktor": ["viktorSticker1", "viktorSticker2"]
+  },
+  "stickerPacks": {
+    "chorles": ["chorles"],
+    "devs": ["viktor"],
+    "all": ["chorles", "viktor"]
+  }
+}
