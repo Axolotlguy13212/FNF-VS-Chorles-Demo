@@ -1,27 +1,27 @@
 {
 	"songs": [
 		[
-			"Beetorial (Pico Mix)",
+			"Beetorial",
 			"chorles",
 			[
-				146,
-				113,
-				253
+				255,
+				255,
+				0
 			]
 		]
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "Hard",
+	"difficulties": "",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Flutter Fields",
-	"weekName": "Flutter Fields",
-	"hideStoryMode": true,
+	"storyName": "Beetorial",
+	"weekName": "Beetorial",
+	"hideStoryMode": false,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
 }
