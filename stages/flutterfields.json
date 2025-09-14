@@ -8,15 +8,15 @@
 		"gf": "gf",
 		"dad": "chorles"
 	},
-	"stageUI": "normal",
 	"boyfriend": [
-		1154,
+		1192,
 		155
 	],
 	"girlfriend": [
 		282,
 		198
 	],
+	"stageUI": "normal",
 	"defaultZoom": 0.4,
 	"objects": [
 		{
@@ -36,6 +36,39 @@
 			],
 			"alpha": 1,
 			"type": "square"
+		},
+		{
+			"x": -534,
+			"y": -196,
+			"scale": [
+				4,
+				4
+			],
+			"image": "Sun",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Sun",
+			"firstAnimation": "shine",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "shine",
+					"loop": true,
+					"name": "shine"
+				}
+			],
+			"type": "animatedSprite"
 		},
 		{
 			"x": -2290,

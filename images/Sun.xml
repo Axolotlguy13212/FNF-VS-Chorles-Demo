@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sun.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="shine0000" x="1232" y="533" width="507" height="502" frameX="-53" frameY="-53" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0001" x="1232" y="0" width="538" height="533" frameX="-39" frameY="-42" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0002" x="596" y="616" width="564" height="559" frameX="-26" frameY="-35" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0003" x="0" y="616" width="596" height="590" frameX="-6" frameY="-13" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0004" x="616" y="0" width="616" height="606" frameX="2" frameY="-8" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0005" x="0" y="0" width="616" height="616" frameX="2" frameY="2" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0006" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0007" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0008" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0009" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0010" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0011" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0012" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0013" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0014" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0015" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+	<SubTexture name="shine0016" x="0" y="1206" width="428" height="428" frameX="-92" frameY="-88" frameWidth="612" frameHeight="612"/>
+</TextureAtlas>
