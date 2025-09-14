@@ -1,10 +1,15 @@
 {
 	"storyName": "Beetorial",
-	"difficulties": "",
+	"difficulties": "Easy, Normal, Hard, Erect, Nightmare",
 	"hideFreeplay": false,
 	"weekBackground": "flutterfields",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"weekCharacters": [
+		"menuChorles",
+		"bf",
+		"gf"
+	],
 	"hideStoryMode": false,
 	"songs": [
 		[
@@ -17,11 +22,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"menuChorles",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Beetorial"
+	"weekName": "Beetorial",
+	"hiddenUntilUnlocked": false
 }

@@ -1,10 +1,10 @@
 {
-	"songRating": 5,
+	"songRating": 0,
 	"allowNewTag": true,
 	"allowErectVariants": true,
 	"freeplayPrevStart": 0,
-	"freeplayPrevEnd": 7.68,
-	"freeplaySongLength": 38.404,
+	"freeplayPrevEnd": 10,
+	"freeplaySongLength": 28.803,
 	"freeplayCharacter": "bf",
 	"albumId": "Chorles-OST-Beetorial",
 	"altInstrumentalSongs": "",
