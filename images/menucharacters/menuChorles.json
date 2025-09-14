@@ -1,0 +1,9 @@
+{
+	"idle_anim": "idle",
+	"image": "menuChorles",
+	"position": [353, 296],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.45,
+	"confirm_anim": "idle"
+}
