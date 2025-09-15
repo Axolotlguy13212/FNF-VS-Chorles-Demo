@@ -5,17 +5,17 @@
 	],
 	"_editorMeta": {
 		"boyfriend": "bf",
-		"dad": "chorles",
-		"gf": "gf"
+		"gf": "gf",
+		"dad": "chorles"
 	},
+	"girlfriend": [
+		282,
+		198
+	],
 	"stageUI": "normal",
 	"boyfriend": [
 		1192,
 		155
-	],
-	"girlfriend": [
-		282,
-		198
 	],
 	"defaultZoom": 0.4,
 	"objects": [
@@ -38,6 +38,28 @@
 			"type": "square"
 		},
 		{
+			"x": -1700,
+			"y": -1748,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "stars",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Stars",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
 			"x": -2290,
 			"y": 809,
 			"scale": [
@@ -45,7 +67,7 @@
 				3000
 			],
 			"filters": 3,
-			"color": "00FF04",
+			"color": "008421",
 			"angle": 0,
 			"name": "Ground",
 			"scroll": [
@@ -69,15 +91,15 @@
 		0,
 		0
 	],
-	"camera_speed": 1,
-	"directory": "",
 	"opponent": [
 		-341,
 		141
 	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
 	"camera_opponent": [
 		0,
 		0
-	],
-	"hide_girlfriend": false
+	]
 }
