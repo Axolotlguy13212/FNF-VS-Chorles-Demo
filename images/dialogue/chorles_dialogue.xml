@@ -2,10 +2,9 @@
 <TextureAtlas imagePath="chorles_dialogue.png">
 	<!-- Created using the Spritesheet and XML generator -->
 	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
-	<SubTexture name="talk0000" x="780" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="pissed0000" x="0" y="799" width="421" height="48" frameX="-261" frameY="-423" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="talk0000" x="390" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
 	<SubTexture name="talk0001" x="0" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
-	<SubTexture name="talk0002" x="390" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
-	<SubTexture name="talk0003" x="0" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
-	<SubTexture name="talk0004" x="780" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
-	<SubTexture name="idle0000" x="390" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="talk0002" x="780" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="idle0000" x="780" y="0" width="390" height="799" frameX="-272" frameY="-97" frameWidth="900" frameHeight="900"/>
 </TextureAtlas>
