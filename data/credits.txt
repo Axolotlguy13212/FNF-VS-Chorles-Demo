@@ -4,3 +4,6 @@ Axolotlguy::axolotlguy::Pretty much everything. The music, sprites, all him::htt
 Charles the Bee Team
 Viktor::Viktor::Director, Programmer, Marketer, and Designer of Charles the Bee::https://bluepinstudio.com/::0xFF0008FF
 GinaThePotato::Gina::Artist of Charles the Bee::https://ginatryhard.wixsite.com/ginathepotato::0xFFF00DC
+
+Cameos
+EvanMMO:EvanMMO::::https://www.twitch.tv/evanmmo::0xFFAE6C37

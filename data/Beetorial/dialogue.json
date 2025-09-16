@@ -1,0 +1,237 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "GF? Where are we",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "idk",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Sup, my homies!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chorles_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Who are you?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "A bee *insert that one sound effect that normally plays after a joke that goes 'ba da da' or something like that*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chorles_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Whats up with the silence?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chorles_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Dont ever do that again",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, uh, BF? Aren't you gonna ask him to rap, its a rule of this game for you to ask someone to rap?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Friday Night Funkin' is an upcoming rhythm video game developed by The Funkin' Crew Inc. and released on Newgrounds in 2020. The game is developed by a small group consisting primarily of Cameron \"ninjamuffin99\" Taylor, David \"PhantomArcade\" Brown, Isaac \"Kawai Sprite\" Garcia, and evilsk8r. The game is also open-source.[a] It shares some gameplay features with Dance Dance Revolution, PaRappa the Rapper, and the \"Dance Contest\" minigame from Club Penguin, and borrows aesthetic influences from Flash games.[7][not in body] The game has been credited with driving users back to Newgrounds, a site that rose in popularity in the early 2000s.[8][9][6][not in body]\r\n\r\nThe game revolves around the player character, Boyfriend, who must defeat a variety of opponents in singing and rapping contests in order to continue dating his love interest, Girlfriend. Gameplay involves hitting notes with timed inputs while avoiding running out of health for the duration of the song.[10][11] There are currently nine levels in the game, alongside selected songs amongst the nine levels featuring more difficult remixes.\r\n\r\nThe game was initially created for the Ludum Dare 47 game jam on October 5, 2020.[12] An expanded demo was released on November 1, 2020, with updates continually released in the following months. A full version of the game backed by Kickstarter, titled Friday Night Funkin': The Full Ass Game, is in development.[13] On July 15, 2025, the game was released for iOS and Android.[‡ 1]",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Did you just copy and paste the Friday Night Funkin' Wikipedia Page?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "UUh, no",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chorles_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "So, Chorles, you wanna rap?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chorles_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "D. O. N. T.  E. V. E. R.  C. A. L. L.     M. E.  T. H. A. T.  A. G. A. I. N.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chorles_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Sorry, its not like I'm EvanMMO or something",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "So, how do you \"rap\" I know how to dance.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chorles_dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, let me teach you...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Did someone say my name???",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evanMMO"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evanMMO",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh look its chorles"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chorles_dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"expression": "talk",
+			"text": "THIS DIALOGUE SEGMENT IS WAY TO LONG!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "JUST RAP, PLEASE!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	],
+	"style": ""
+}

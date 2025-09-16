@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evanMMO_dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="talk0000" x="0" y="0" width="914" height="862" frameX="2" frameY="-24" frameWidth="910" frameHeight="910"/>
+</TextureAtlas>

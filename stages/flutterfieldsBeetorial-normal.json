@@ -1,0 +1,138 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "chorles"
+	},
+	"girlfriend": [
+		282,
+		198
+	],
+	"stageUI": "normal",
+	"boyfriend": [
+		1192,
+		155
+	],
+	"defaultZoom": 0.4,
+	"objects": [
+		{
+			"x": -2404,
+			"y": -1793,
+			"scale": [
+				7000,
+				4000
+			],
+			"filters": 3,
+			"color": "00FFFF",
+			"angle": 0,
+			"name": "Sky",
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "square"
+		},
+		{
+			"x": -534,
+			"y": -196,
+			"scale": [
+				4,
+				4
+			],
+			"image": "Sun",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Sun",
+			"firstAnimation": "shine",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 24,
+					"anim": "shine",
+					"indices": [],
+					"name": "shine"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -2290,
+			"y": 809,
+			"scale": [
+				7000,
+				3000
+			],
+			"filters": 3,
+			"color": "00FF04",
+			"angle": 0,
+			"name": "Ground",
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "square"
+		},
+		{
+			"x": 610,
+			"y": 417,
+			"scale": [
+				0.5,
+				0.5
+			],
+			"image": "evanMMO",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "evanMMO",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		-341,
+		141
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}
