@@ -1,5 +1,5 @@
 VS Charles Team
-Axolotlguy::axolotlguy::Pretty much everything. The music, sprites, all him::https://axolotlguy1321.itch.io/::0xFF0008FF
+Axolotlguy::axolotlguy::Literally Everything aside from Charles the Bee::https://axolotlguy1321.itch.io/::0xFF0008FF
 
 Charles the Bee Team
 Viktor::Viktor::Director, Programmer, Marketer, and Designer of Charles the Bee::https://bluepinstudio.com/::0xFF0008FF
@@ -7,5 +7,10 @@ GinaThePotato::Gina::Artist of Charles the Bee::https://ginatryhard.wixsite.com/
 Minus::Minus::A Musician of Charles the Bee::https://x.com/mynvs::0xFF808080
 
 Cameos
-EvanMMO:EvanMMO::He exists::https://www.twitch.tv/evanmmo::0xFFAE6C37
+EvanMMO::EvanMMO::He exists::https://www.twitch.tv/evanmmo::0xFFAE6C37
 Viktor::Viktor::Director, Programmer, Marketer, and Designer of Charles the Bee::https://bluepinstudio.com/::0xFF0008FF
+
+Links
+Charles the Bee::chorlesLink::Play Charles the Bee!!!::https://store.steampowered.com/app/2485090/Charles_the_Bee/::0xFFFFFF00
+Axolotlguy Discord Server::axolotlguy::Join my Discord Server::https://discord.gg/RaTS3498xh/::0xFF0008FF
+Blue Pin Studio Discord Server::viktor::Join the Official chorles Discord Server!::https://discord.gg/GtcKH3V6GZ/::0xFF0008FF
