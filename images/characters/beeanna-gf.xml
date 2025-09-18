@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beeanna-gf.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="danceLEFT0000" x="1130" y="0" width="569" height="868" frameX="-156" frameY="-31" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceLEFT0001" x="563" y="0" width="567" height="882" frameX="-149" frameY="-17" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceLEFT0002" x="0" y="0" width="563" height="894" frameX="-141" frameY="-5" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceLEFT0003" x="0" y="894" width="558" height="901" frameX="-139" frameY="2" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceLEFT0004" x="0" y="0" width="563" height="894" frameX="-141" frameY="-5" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceLEFT0005" x="563" y="0" width="567" height="882" frameX="-149" frameY="-17" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceLEFT0006" x="1130" y="0" width="569" height="868" frameX="-156" frameY="-31" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceRIGHT0000" x="1130" y="0" width="569" height="868" frameX="-156" frameY="-31" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceRIGHT0001" x="1699" y="0" width="573" height="858" frameX="-160" frameY="-41" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceRIGHT0002" x="2272" y="0" width="575" height="852" frameX="-167" frameY="-47" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceRIGHT0003" x="0" y="1795" width="577" height="844" frameX="-170" frameY="-55" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceRIGHT0004" x="2272" y="0" width="575" height="852" frameX="-167" frameY="-47" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceRIGHT0005" x="1699" y="0" width="573" height="858" frameX="-160" frameY="-41" frameWidth="900" frameHeight="900"/>
+	<SubTexture name="danceRIGHT0006" x="1130" y="0" width="569" height="868" frameX="-156" frameY="-31" frameWidth="900" frameHeight="900"/>
+</TextureAtlas>
